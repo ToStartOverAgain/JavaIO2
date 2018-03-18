@@ -1,0 +1,4 @@
+vi|VN
+en|US
+ja|JP
+zh|CN
